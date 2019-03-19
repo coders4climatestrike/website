@@ -1,6 +1,6 @@
 ## Coders4ClimateStrike
 
-Inspired by the call to action by [Greta Thunberg](https://en.wikipedia.org/wiki/Greta_Thunberg) and the many[1][2][3] recent demostrations, we want to help, with action.
+Inspired by the call to action by [Greta Thunberg](https://en.wikipedia.org/wiki/Greta_Thunberg) and the many [1] [2] [3] recent demostrations, we want to help, with action.
 
 If you have some suggestions or want to get involved talk to us [@coders4Climate](https://twitter.com/Coders4Climate)
 
