@@ -18,9 +18,9 @@ So, as a developer/programmer/coder, what can we do? Here is some ideas:
 
 ## Education
  
- * [What do Climate Change, Data Centres and Cloud have to do with each other](https://t.co/UwidTb3xks)
- * [Ethics, Datacentres and Green Energy Anne Currie & Paul Johnston](https://www.youtube.com/watch?v=y5I3M0-9HKM)
- * Risk : https://qconlondon.com/london2019/presentation/risk-climate-change-and-what-tech-can-do
+ * Article: [What do Climate Change, Data Centres and Cloud have to do with each other](https://t.co/UwidTb3xks)
+ * Video: [Ethics, Datacentres and Green Energy Anne Currie & Paul Johnston](https://www.youtube.com/watch?v=y5I3M0-9HKM)
+ * Article: [Risk of Climate Change and What Tech Can Do](https://qconlondon.com/london2019/presentation/risk-climate-change-and-what-tech-can-do)
  
  
  
