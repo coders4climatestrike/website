@@ -11,7 +11,7 @@ So, as a developer/programmer/coder, what can we do? Here is some ideas:
 
 ## Running and hosting applications:
  
- * Sign this: Petition on sustainable servers: https://www.change.org/p/sustainable-servers-by-2024
+ * Sign this: [Petition on sustainable servers](https://www.change.org/p/sustainable-servers-by-2024)
  * Some people did the research and these are good places to host (from a sustainability point of view): @GCPcloud @Azure or @awscloud BUT ONLY Dublin, Frankfurt, Canada or Oregon (these are the sustainable regions).
  * Tell others to host their applications at above and let the hosting poroviders know why you are using them or choosing to switch!
  * Don't Blockchain or bitcoin (or push for proof of efficiency as a consenus algo) ( learn [why]()) 
