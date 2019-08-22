@@ -17,6 +17,10 @@ So, as a developer/programmer/coder, what can we do? Here is some ideas:
  * Don't Blockchain or bitcoin (or push for proof of efficiency as a consenus algo) ( learn why [The guardian link](https://www.theguardian.com/technology/2018/jan/17/bitcoin-electricity-usage-huge-climate-cryptocurrency) [talk explaining how blockchain works and the impact on the environment](https://www.youtube.com/watch?v=IHUJaK2XzHg&feature=youtu.be)) 
  ) 
 
+## Travel
+
+If you travel by air, you can offset your carbon. We have compiled a list of [carbon offsetting companies](https://github.com/coders4climatestrike/awesome-carbon-offset), if you used one and you are happy with their work, feel free to tell us or simply send a PR to the [Awesome carbon offseting](https://github.com/coders4climatestrike/awesome-carbon-offset). 
+
 ## Education
  
  * Article: [What do Climate Change, Data Centres and Cloud have to do with each other](https://t.co/UwidTb3xks)
