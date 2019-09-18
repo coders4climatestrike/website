@@ -7,7 +7,8 @@ If you have some suggestions or want to get involved talk to us [@coders4Climate
 So, as a developer/programmer/coder, what can we do? Here is some ideas:
 
 ## Buying a phone?
- - What are the environmental costs in building machines? in getting components? are there ethical implications and alternatives? Influenced by the [fairphone talk](https://meaningconference.co.uk/videos/bibi-bleekemolen.php) and the actual [Fair Phone](https://www.fairphone.com/en/)
+ - What are the environmental costs in building machines? in getting components? are there ethical implications and alternatives? Influenced by the [fairphone talk](https://meaningconference.co.uk/videos/bibi-bleekemolen.php) and the actual [Fair Phone](https://www.fairphone.com/en/). 
+   * A review for the Fairphone 3 by [The Guardian](https://www.theguardian.com/technology/2019/sep/18/fairphone-3-review-ethical-phone)
 
 ## Running and hosting applications:
  
@@ -19,7 +20,7 @@ So, as a developer/programmer/coder, what can we do? Here is some ideas:
 
 ## Travel
 
-If you travel by air, you can offset your carbon. We have compiled a list of [carbon offsetting companies](https://github.com/coders4climatestrike/awesome-carbon-offset), if you used one and you are happy with their work, feel free to tell us or simply send a PR to the [Awesome carbon offseting](https://github.com/coders4climatestrike/awesome-carbon-offset). 
+If you have to travel by air, you can offset your carbon. We have compiled a list of [carbon offsetting companies](https://github.com/coders4climatestrike/awesome-carbon-offset), if you used one and you are happy with their work, feel free to tell us or simply send a PR to the [Awesome carbon offseting](https://github.com/coders4climatestrike/awesome-carbon-offset). 
 
 ## Education
  
