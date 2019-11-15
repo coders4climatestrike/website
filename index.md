@@ -1,22 +1,33 @@
 ## Coders4ClimateStrike
 
-Inspired by the call to action by [Greta Thunberg](https://en.wikipedia.org/wiki/Greta_Thunberg) and the many [1] [2] [3] recent demostrations, we want to help, with action.
+Inspired by the call to action by [Greta Thunberg](https://en.wikipedia.org/wiki/Greta_Thunberg) and the many ([1]) ([2]) ([3]) recent demostrations, we want to help, with *action*.
 
-If you have some suggestions or want to get involved talk to us [@coders4Climate](https://twitter.com/Coders4Climate)
+If you have some suggestions or want to get involved talk to us via twitter [@coders4Climate](https://twitter.com/Coders4Climate)
 
-So, as a developer/programmer/coder, what can we do? Here is some ideas:
+So, as a developer/programmer/coder, what can we do? Here is some suggestions of things you can change:
 
-## Buying a phone?
- - What are the environmental costs in building machines? in getting components? are there ethical implications and alternatives? Influenced by the [fairphone talk](https://meaningconference.co.uk/videos/bibi-bleekemolen.php) and the actual [Fair Phone](https://www.fairphone.com/en/). 
-   * A review for the Fairphone 3 by [The Guardian](https://www.theguardian.com/technology/2019/sep/18/fairphone-3-review-ethical-phone)
+## Reducing carbon day to day
 
-## Running and hosting applications:
+### Running and hosting applications:
  
  * Sign this: [Petition on sustainable servers](https://www.change.org/p/sustainable-servers-by-2024)
  * Some people did the research and these are good places to host (from a sustainability point of view): @GCPcloud @Azure or @awscloud BUT ONLY Dublin, Frankfurt, Canada or Oregon (these are the sustainable regions).
  * Tell others to host their applications at above and let the hosting poroviders know why you are using them or choosing to switch!
- * Don't Blockchain or bitcoin (or push for proof of efficiency as a consenus algo) ( learn why [The guardian link](https://www.theguardian.com/technology/2018/jan/17/bitcoin-electricity-usage-huge-climate-cryptocurrency) [talk explaining how blockchain works and the impact on the environment](https://www.youtube.com/watch?v=IHUJaK2XzHg&feature=youtu.be)) 
+ 
+ 
+ * Don't Blockchain or bitcoin (or push for proof of efficiency as a consenus algo) ( learn why:
+    -  [The guardian link](https://www.theguardian.com/technology/2018/jan/17/bitcoin-electricity-usage-huge-climate-cryptocurrency) 
+    - [Talk explaining how blockchain works and the impact on the environment](https://www.youtube.com/watch?v=IHUJaK2XzHg&feature=youtu.be)) 
  ) 
+
+
+## Voting with your wallet
+
+
+### Buying a phone?
+ - What are the environmental costs in building machines? in getting components? are there ethical implications and alternatives? Influenced by the [fairphone talk](https://meaningconference.co.uk/videos/bibi-bleekemolen.php) and the actual [Fair Phone](https://www.fairphone.com/en/). 
+   * A review for the Fairphone 3 by [The Guardian](https://www.theguardian.com/technology/2019/sep/18/fairphone-3-review-ethical-phone)
+
 
 ## Travel
 
