@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+ <title type="text">Coders4Climate: Coders4Climate</title>
+ <link rel="self" href="http://www.coders4climatestrike.com/feeds/all.atom.xml" />
+ <link href="http://www.coders4climatestrike.com/index.html" />
+ <id>urn:http-www-coders4climatestrike-com:-index-html</id>
+ <updated>2019-11-17T22:11:13Z</updated>
+ <entry>
+  <title type="text">Voting with your wallet</title>
+  <link rel="alternate" href="http://www.coders4climatestrike.com/2019/11/voting-with-your-wallet.html?utm_source=all&amp;utm_medium=Atom" />
+  <id>urn:http-www-coders4climatestrike-com:-2019-11-voting-with-your-wallet-html</id>
+  <published>2019-11-17T22:11:13Z</published>
+  <updated>2019-11-17T22:11:13Z</updated>
+  <author>
+   <name>Otter</name></author>
+  <content type="html">
+&lt;p&gt;Do you want to do something now? A few interesting alternatives:&lt;/p&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;Buy a phone you can easily repair (a high level on the fairphone)&lt;/li&gt;
+ &lt;li&gt;Offset when you fly&lt;/li&gt;
+ &lt;li&gt;Reduce plastic at home and the office&lt;/li&gt;&lt;/ul&gt;&lt;a href="http://www.coders4climatestrike.com/2019/11/voting-with-your-wallet.html?utm_source=all&amp;amp;utm_medium=Atom"&gt;&lt;em&gt;More&amp;hellip;&lt;/em&gt;&lt;/a&gt;</content></entry>
+ <entry>
+  <title type="text">Running and hosting applications</title>
+  <link rel="alternate" href="http://www.coders4climatestrike.com/2019/11/running-and-hosting-applications.html?utm_source=all&amp;utm_medium=Atom" />
+  <id>urn:http-www-coders4climatestrike-com:-2019-11-running-and-hosting-applications-html</id>
+  <published>2019-11-17T22:03:59Z</published>
+  <updated>2019-11-17T22:03:59Z</updated>
+  <author>
+   <name>Otter</name></author>
+  <content type="html">
+&lt;p&gt;What are the best places from a sustainability point of view to host your services and applications?  In this article we point you to the info we have. TL;DR: These are carbon neutral places to host @GCPcloud @Azure or @awscloud BUT ONLY Dublin, Frankfurt, Canada or Oregon (these are the sustainable regions as of Nov&amp;ndash;2018).&lt;/p&gt;&lt;a href="http://www.coders4climatestrike.com/2019/11/running-and-hosting-applications.html?utm_source=all&amp;amp;utm_medium=Atom"&gt;&lt;em&gt;More&amp;hellip;&lt;/em&gt;&lt;/a&gt;</content></entry>
+ <entry>
+  <title type="text">Awesome carbon offseting</title>
+  <link rel="alternate" href="http://www.coders4climatestrike.com/2019/11/awesome-carbon-offseting.html?utm_source=all&amp;utm_medium=Atom" />
+  <id>urn:http-www-coders4climatestrike-com:-2019-11-awesome-carbon-offseting-html</id>
+  <published>2019-11-17T20:23:37Z</published>
+  <updated>2019-11-17T20:23:37Z</updated>
+  <author>
+   <name>Otter</name></author>
+  <content type="html">
+&lt;p&gt;This is a compilation of resources on carbon offseting.Format inspired by other #awesome-  It aims to give an overview of what are your carbon offseting options, what are the issues with carbon offseting and anything else that might be useful..&lt;/p&gt;&lt;a href="http://www.coders4climatestrike.com/2019/11/awesome-carbon-offseting.html?utm_source=all&amp;amp;utm_medium=Atom"&gt;&lt;em&gt;More&amp;hellip;&lt;/em&gt;&lt;/a&gt;</content></entry></feed>

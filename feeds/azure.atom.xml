@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+ <title type="text">Coders4Climate: Posts tagged 'azure'</title>
+ <link rel="self" href="http://www.coders4climatestrike.com/feeds/azure.atom.xml" />
+ <link href="http://www.coders4climatestrike.com/tags/azure.html" />
+ <id>urn:http-www-coders4climatestrike-com:-tags-azure-html</id>
+ <updated>2019-11-17T22:03:59Z</updated>
+ <entry>
+  <title type="text">Running and hosting applications</title>
+  <link rel="alternate" href="http://www.coders4climatestrike.com/2019/11/running-and-hosting-applications.html?utm_source=azure&amp;utm_medium=Atom" />
+  <id>urn:http-www-coders4climatestrike-com:-2019-11-running-and-hosting-applications-html</id>
+  <published>2019-11-17T22:03:59Z</published>
+  <updated>2019-11-17T22:03:59Z</updated>
+  <author>
+   <name>Otter</name></author>
+  <content type="html">
+&lt;p&gt;What are the best places from a sustainability point of view to host your services and applications?  In this article we point you to the info we have. TL;DR: These are carbon neutral places to host @GCPcloud @Azure or @awscloud BUT ONLY Dublin, Frankfurt, Canada or Oregon (these are the sustainable regions as of Nov&amp;ndash;2018).&lt;/p&gt;&lt;a href="http://www.coders4climatestrike.com/2019/11/running-and-hosting-applications.html?utm_source=azure&amp;amp;utm_medium=Atom"&gt;&lt;em&gt;More&amp;hellip;&lt;/em&gt;&lt;/a&gt;</content></entry></feed>
