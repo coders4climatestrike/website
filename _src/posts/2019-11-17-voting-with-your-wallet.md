@@ -1,6 +1,6 @@
     Title: Voting with your wallet
     Date: 2019-11-17T22:11:13
-    Tags: fairphone, ethical phone, travelling, carbon offset, climate change
+    Tags: fairphone, ethical phone, travelling, carbon offset, climate change, coffee, lunch, keepcup
 
 
 Do you want to do something now? A few interesting alternatives: 
