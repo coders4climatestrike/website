@@ -24,3 +24,7 @@ article img {
   max-width: 100%;
   height: auto;
 }
+
+h1 {
+    padding: 0.5em;
+}
