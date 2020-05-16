@@ -1,12 +1,11 @@
     Title: A community that converts cars to electric
     Date: 2020-05-16T11:13:20
-    Tags: DRAFT, electric cars, community, car conversions
+    Tags: electric cars, community, car conversions
+    Authors: Andrea Magnorsky
 
-Do you dream of converting a combustion car into electric? It doesn't
-have to be a dream. We talk to Kevin Sharpe of [New Electric Ireland](https://twitter.com/NewElectricIRL)
+Do you dream of converting a combustion car into electric? It doesn't have to be a dream. We talk to Kevin Sharpe of [New Electric Ireland](https://twitter.com/NewElectricIRL)
 
 <!-- more -->
-
 
 ### Tell me a little bit about your company
 
@@ -14,6 +13,9 @@ We are a group of 5 [companies](http://www.newelectric.nl/) headquartered in the
 vehicle fleets. We work with both battery and hydrogen powered vehicles.
 
 The company was founded in The Netherlands in 2008 by Anne Kloppenborg a friend and colleague for many years. The workshop in Ireland was established in 2018.
+
+<img src="/img/2020-newireland/marine_tugboat.jpeg" width="400" alter="Electric marine tugboat ">
+
 
 ### How do these car conversions work?
 
@@ -27,6 +29,8 @@ There are two things driving this forward:
 -   We want to extend the life of existing vehicles
 -   We want to ensure this can be achieved at low cost, since new electric vehicles are fairly expensive. Two years ago Damien was able to make a conversion for just €1000. This vehicle has a 40 mile range.
 
+<img src="/img/2020-newireland/2020-05-workshop-small.jpg" width="400" alter="Car workshop showing a Jaguar and a Mini" data-toggle="tooltip" title="Car workshop showing a Jaguar and a Mini" >
+
 ### I see there are a lot of Open Source references in the [Open Inverter website](https://openinverter.org/forum/). Can you tell us a little about you and Open Source projects?
 
 We have been supporting open source for many years both financially and donating equipment. My main business is in the medical field in the US. 
@@ -36,6 +40,8 @@ business, it doesn't need to be a charitable exercise.
 In the electric car space, we wanted to formalise our support, that's why when I was coming to Ireland, we took a decision to set up a
 facility to teach people about conversions and open source. We're currently teaching about 100 people a year. We also undertake open
 source R&D.
+
+<img src="/img/2020-newireland/2020-05-wip.jpeg" width="400" alter="Car conversion in progress">
 
 ### Is there anything happening at the moment that enables the car conversions?
 
@@ -71,6 +77,8 @@ transmission is a bolt-in piece that we need. Whilst it is not a particularly co
 metalworking skills it could present quite a challenge. More companies producing these kinds of things helps to bring the conversion process
 within the scope of more people.
 
+<img src="/img/2020-newireland/2020-05-battery-packs.jpeg" width="400" alter="Car workshop showing a Jaguar and a Mini">
+
 ### What are some benefits of open development you have personally experienced?
 
 I guess it's simpler to show with some examples: There is a fantastic project called Open Vehicles. It's a monitoring and control tool that
@@ -91,6 +99,10 @@ are both very passionate about trying to grow the number of clean vehicles. This
 An obvious start would be Open Vehicles, the monitoring system. This is an important software project. It needs consistent focus from some
 software people so that it can be used by Open Inverter.
 
+A video how to install Open Inverter and a high level overview of what it provides:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Z9Fsbvd1Kfg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 #### Do the thing!!
 
 So, you read this far and you are interested in trying to do something?
@@ -98,6 +110,8 @@ Well here are some options for you:
 
 * (Open Vehicles)[https://www.openvehicles.com/] : Open Source electric vehicle telemetry. They have a [developer guide](https://docs.google.com/document/d/1q5M9Lb5jzQhJzPMnkMKwy4Es5YK12ACQejX\_NWEixr0/edit\#) available, as well as [extensive documentation](https://docs.openvehicles.com/en/latest/index.html). The github project page shows the current status of the ongoing work.
 * (Open Inverter): You can get go to the course ([More info](https://openinverter.org/forum/viewtopic.php?f=15&t=491)). Explore Open Inverter wiki.
+
+
 
 
 
