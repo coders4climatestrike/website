@@ -108,8 +108,8 @@ A video how to install Open Inverter and a high level overview of what it provid
 So, you read this far and you are interested in trying to do something?
 Well here are some options for you:
 
-* (Open Vehicles)[https://www.openvehicles.com/] : Open Source electric vehicle telemetry. They have a [developer guide](https://docs.google.com/document/d/1q5M9Lb5jzQhJzPMnkMKwy4Es5YK12ACQejX\_NWEixr0/edit\#) available, as well as [extensive documentation](https://docs.openvehicles.com/en/latest/index.html). The github project page shows the current status of the ongoing work.
-* (Open Inverter): You can get go to the course ([More info](https://openinverter.org/forum/viewtopic.php?f=15&t=491)). Explore Open Inverter wiki.
+* [Open Vehicles](https://www.openvehicles.com/) : Open Source electric vehicle telemetry. They have a [developer guide](https://docs.google.com/document/d/1q5M9Lb5jzQhJzPMnkMKwy4Es5YK12ACQejX\_NWEixr0/edit\#) available, as well as [extensive documentation](https://docs.openvehicles.com/en/latest/index.html). The github project page shows the current status of the ongoing work.
+* [Open Inverter](https://openinverter.org/wiki/Main_Page): You can get go to the course ([More info](https://openinverter.org/forum/viewtopic.php?f=15&t=491)). Explore Open Inverter wiki.
 
 
 
