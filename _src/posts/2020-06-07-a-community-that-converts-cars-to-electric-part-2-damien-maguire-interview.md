@@ -7,6 +7,10 @@ Damien is an electrical engineer also known as the BMW EV conversion person. He 
 
 <!-- more -->
 
+1. [Kevin Sharpe from New Electric Ireland. Running courses to convert cars to electric.](http://coders4climatestrike.com/2020/05/a-community-that-converts-cars-to-electric.html)
+2. Damien Maguire. An Electric Engineer that converts cars to electric.
+
+
 ## Damien, tell us how did you start converting cars to electric?
 
 It would be nice to say it all started with a single spark, like watching ["Who killed the electric car"](https://www.imdb.com/title/tt0489037/) but in reality it was many things at the same time.
@@ -72,6 +76,7 @@ It can be very hard to open source something, you put a lot of work into it and 
 
 Around 2014 I got my first AC motor inverter and it was all closed source, after looking at this from a pure reliability point of view I thought, I am not putting this in my car! Too much that can go wrong! So I started looking around for alternatives, and found this website selling a kit, an open source AC motor controller and it was really simple,  to the point I thought that it couldn't be real, but I bought a kit for about €60 and when it arrived, I built the thing and got the motor turning! 
 We kept in touch from there on.  In some ways this is how Open Inverter started.
+
 ## How does one convert a car?
 
 Well, how long is a piece of string? 
@@ -91,12 +96,13 @@ Battery: easier now, depends on your budget and availability.
 
 Vehicle integration: The good news here is that most modern cars started using a lot of electrically driven accessories that would traditionally be engine driven, for example: power steering , brake vacuum system, air conditioning, all these are 12 volt driving. Driving instruments and all that, varies from simple analog systems all the way to CAN, so when you are converting a car you need to go through each system and solve the problems as they arrive.
 
-
 ## Last words
 
 A place to start is to be in the [Open Inverter forum](https://openinverter.org/forum/index.php), we try to keep the level of misinformation there to a minimum. Go there, read the forum and do something! Don’t forget, the most important tool is that bit between your two ears!
 
 
 
-
 Thanks so much to Damien Maguire for his time and doing this interview for Coders4Climate.
+
+
+If you liked this article, you might like the previous article in the series: [Kevin Sharpe from New Electric Ireland. Running courses to convert cars to electric.](http://coders4climatestrike.com/2020/05/a-community-that-converts-cars-to-electric.html)

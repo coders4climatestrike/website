@@ -7,6 +7,11 @@ Do you dream of converting a combustion car into electric? It doesn't have to be
 
 <!-- more -->
 
+This is a two part series of interviews:
+
+1. Kevin Sharpe from New Electric Ireland. Running courses to convert cars to electric.
+2. [Damien Maguire. An Electric Engineer that converts cars to electric](http://coders4climatestrike.com/2020/06/a-community-that-converts-cars-to-electric-part-2-damien-maguire-interview.html)
+
 ### Tell me a little bit about your company
 
 We are a group of 5 [companies](http://www.newelectric.nl/) headquartered in the Netherlands. We convert boats, buses, cars, and trucks to electric drive, often complete
@@ -113,6 +118,6 @@ Well here are some options for you:
 
 
 
-
-
 Many thanks to Ross McKinlay, Richard Dallaway, Charlotte Franklin, Jamie Beevor and many others that helped editing the interview. Many thanks to Kevin Sharpe for his sharing this with us. 
+
+Follow to the next article on the series: [Damien Maguire. An Electric Engineer that converts cars to electric](http://coders4climatestrike.com/2020/06/a-community-that-converts-cars-to-electric-part-2-damien-maguire-interview.html)
