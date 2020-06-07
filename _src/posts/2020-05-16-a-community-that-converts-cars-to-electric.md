@@ -1,6 +1,6 @@
     Title: A community that converts cars to electric
     Date: 2020-05-16T11:13:20
-    Tags: electric cars, community, car conversions
+    Tags: electric cars, community, car conversions, Kevin Sharpe, New electric Ireland, open inverter, open vehicles
     Authors: Andrea Magnorsky
 
 Do you dream of converting a combustion car into electric? It doesn't have to be a dream. We talk to Kevin Sharpe of [New Electric Ireland](https://twitter.com/NewElectricIRL)
