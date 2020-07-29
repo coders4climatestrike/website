@@ -84,7 +84,7 @@ Nowadays we are looking into hybrids more because it's so much cheaper. If you g
 
 ## I get the sense that you're really into democratising this. Is that so?
 
-Most definetly! I was inspired by the Steve Jobs biography and some articles, where they describe how [Steve Wosniac](https://en.wikipedia.org/wiki/Steve_Wozniak) worked. For example when he got a $100 per part, he didn't use all the budget on it. He shrunk the design to the very essence of what was necessary.
+Most definetly! I was inspired by the Steve Jobs biography and some articles where they describe how [Steve Wosniak](https://en.wikipedia.org/wiki/Steve_Wozniak) worked. For example when he got a $100 per part, he didn't use all the budget on it. He shrunk the design to the very essence of what was necessary.
 
 What I aim for is: **not much there that doesn’t need to be there**. I do not use expensive components because of fancy data sheets. Do not use many components that are supposedly superior. What’s the point in measuring the current with 0.1% accuracy If all you need is like 5% .
 
@@ -100,6 +100,7 @@ I hope it might become self-sustaining soon. If that happens I can spend all my 
 ## What happens when people order a part from Open Inverter?
 
 The process starts with getting the correct parts ordered, then I put it together, load the software to it, do some test procedures.I try to be as complete as possible, so people don't have to go out and shop for something else when they get the kits.
+Follow the link for more info on the features of the [Inverter Kit](http://johanneshuebner.com/quickcms/index.html%3Fen_features,8.html)
 
 ## What is the blocker for more car conversions to electric?
 
@@ -127,7 +128,7 @@ Every car is a new project. Standardising the conversions would make sense becau
 
 ## Speaking of debunking myths, is it expected that I would lose the back seats if I convert a car?
 
-Maybe that would have been true with my first conversion many years ago, the 92 Polo, the battery weighted 250 kilograms. However, with nowadays technology I could probably fit most of the batteries in front and wouldn’t lose them.
+Maybe that would have been true with my first conversion many years ago, the [92 Polo](http://johanneshuebner.com/quickcms/index.html%3Fen_electric-car-conversion,6.html), the battery weighted 250 kilograms. However, with nowadays technology I could probably fit most of the batteries in front and wouldn’t lose them.
 
 
 
@@ -153,6 +154,10 @@ It is in the plans to have some sort of standard so that other systems, like Ope
   <figcaption class="figure-caption">Conversion with Open inverter branding.</figcaption>
 </figure>
 
+## Important links
+
+* [Johannes github](https://github.com/jsphuebner)
+* [Open inverter website](https://openinverter.org/)
 
 Thanks to Johannes for his time doing this interview. All photos in this article are his.
 
