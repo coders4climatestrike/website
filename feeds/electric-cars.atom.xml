@@ -4,7 +4,19 @@
  <link rel="self" href="http://www.coders4climatestrike.com/feeds/electric-cars.atom.xml" />
  <link href="http://www.coders4climatestrike.com/tags/electric-cars.html" />
  <id>urn:http-www-coders4climatestrike-com:-tags-electric-cars-html</id>
- <updated>2020-06-07T10:23:28Z</updated>
+ <updated>2020-07-26T09:29:15Z</updated>
+ <entry>
+  <title type="text">An OSS community that converts cars to electric. Part 3: Johannes Huebner</title>
+  <link rel="alternate" href="http://www.coders4climatestrike.com/2020/07/an-oss-community-that-converts-cars-to-electric-part-3-johannes-huebner.html?utm_source=electric-cars&amp;utm_medium=Atom" />
+  <id>urn:http-www-coders4climatestrike-com:-2020-07-an-oss-community-that-converts-cars-to-electric-part-3-johannes-huebner-html</id>
+  <published>2020-07-26T09:29:15Z</published>
+  <updated>2020-07-26T09:29:15Z</updated>
+  <author>
+   <name>Andrea Magnorsky</name></author>
+  <content type="html">
+&lt;p&gt;Johannes Huebner on how he wants to democratise car conversions.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="/img/2020-johannes/father-son.jpg" class="rounded" width="400" alter="first kit" /&gt;&lt;/p&gt;&lt;a href="http://www.coders4climatestrike.com/2020/07/an-oss-community-that-converts-cars-to-electric-part-3-johannes-huebner.html?utm_source=electric-cars&amp;amp;utm_medium=Atom"&gt;&lt;em&gt;More&amp;hellip;&lt;/em&gt;&lt;/a&gt;</content></entry>
  <entry>
   <title type="text">A community that converts cars to electric. Part 2: Damien Maguire interview</title>
   <link rel="alternate" href="http://www.coders4climatestrike.com/2020/06/a-community-that-converts-cars-to-electric-part-2-damien-maguire-interview.html?utm_source=electric-cars&amp;utm_medium=Atom" />
@@ -24,4 +36,6 @@
   <author>
    <name>Andrea Magnorsky</name></author>
   <content type="html">
-&lt;p&gt;Do you dream of converting a combustion car into electric? It doesn&amp;rsquo;t have to be a dream. We talk to Kevin Sharpe of &lt;a href="https://twitter.com/NewElectricIRL"&gt;New Electric Ireland&lt;/a&gt;&lt;/p&gt;&lt;a href="http://www.coders4climatestrike.com/2020/05/a-community-that-converts-cars-to-electric.html?utm_source=electric-cars&amp;amp;utm_medium=Atom"&gt;&lt;em&gt;More&amp;hellip;&lt;/em&gt;&lt;/a&gt;</content></entry></feed>
+&lt;p&gt;Do you dream of converting a combustion car into electric? It doesn&amp;rsquo;t have to be a dream. We talk to Kevin Sharpe of &lt;a href="https://twitter.com/NewElectricIRL"&gt;New Electric Ireland&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="/img/2020-newireland/2020-05-workshop-small.jpg" width="400" alter="Car workshop showing a Jaguar and a Mini" data-toggle="tooltip" title="Car workshop showing a Jaguar and a Mini" /&gt;&lt;/p&gt;&lt;a href="http://www.coders4climatestrike.com/2020/05/a-community-that-converts-cars-to-electric.html?utm_source=electric-cars&amp;amp;utm_medium=Atom"&gt;&lt;em&gt;More&amp;hellip;&lt;/em&gt;&lt;/a&gt;</content></entry></feed>

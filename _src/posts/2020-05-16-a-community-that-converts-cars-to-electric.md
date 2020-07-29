@@ -5,12 +5,15 @@
 
 Do you dream of converting a combustion car into electric? It doesn't have to be a dream. We talk to Kevin Sharpe of [New Electric Ireland](https://twitter.com/NewElectricIRL)
 
+<img src="/img/2020-newireland/2020-05-workshop-small.jpg" width="400" alter="Car workshop showing a Jaguar and a Mini" data-toggle="tooltip" title="Car workshop showing a Jaguar and a Mini" >
+
 <!-- more -->
 
-This is a two part series of interviews:
+This is part one of a series of interviews:
 
 1. Kevin Sharpe from New Electric Ireland. Running courses to convert cars to electric.
 2. [Damien Maguire. An Electric Engineer that converts cars to electric](http://coders4climatestrike.com/2020/06/a-community-that-converts-cars-to-electric-part-2-damien-maguire-interview.html)
+3. [Part 3: Johannes Huebner on how he wants to democratise electric car conversions.](http://coders4climatestrike.com/2020/07/an-oss-community-that-converts-cars-to-electric-part-3-johannes-huebner.html)
 
 ### Tell me a little bit about your company
 
@@ -34,7 +37,7 @@ There are two things driving this forward:
 -   We want to extend the life of existing vehicles
 -   We want to ensure this can be achieved at low cost, since new electric vehicles are fairly expensive. Two years ago Damien was able to make a conversion for just €1000. This vehicle has a 40 mile range.
 
-<img src="/img/2020-newireland/2020-05-workshop-small.jpg" width="400" alter="Car workshop showing a Jaguar and a Mini" data-toggle="tooltip" title="Car workshop showing a Jaguar and a Mini" >
+
 
 ### I see there are a lot of Open Source references in the [Open Inverter website](https://openinverter.org/forum/). Can you tell us a little about you and Open Source projects?
 

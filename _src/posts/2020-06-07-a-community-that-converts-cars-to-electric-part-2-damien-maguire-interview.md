@@ -7,9 +7,11 @@ Damien is an electrical engineer also known as the BMW EV conversion person. He 
 
 <!-- more -->
 
+This is part two of a series of interviews:
+
 1. [Kevin Sharpe from New Electric Ireland. Running courses to convert cars to electric.](http://coders4climatestrike.com/2020/05/a-community-that-converts-cars-to-electric.html)
 2. Damien Maguire. An Electric Engineer that converts cars to electric.
-
+3. [Part 3: Johannes Huebner on how he wants to democratise electric car conversions.](http://coders4climatestrike.com/2020/07/an-oss-community-that-converts-cars-to-electric-part-3-johannes-huebner.html)
 
 ## Damien, tell us how did you start converting cars to electric?
 
