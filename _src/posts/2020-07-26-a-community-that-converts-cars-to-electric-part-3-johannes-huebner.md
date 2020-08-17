@@ -9,7 +9,7 @@ Johannes Huebner on how he wants to democratise car conversions.
 
 <!-- more -->
 
-This is three two of a series of interviews:
+This is part three of a series of interviews:
 
 1. [Kevin Sharpe from New Electric Ireland. Running courses to convert cars to electric.](http://coders4climatestrike.com/2020/05/a-community-that-converts-cars-to-electric.html)
 2. [Damien Maguire. An Electric Engineer that converts cars to electric](http://coders4climatestrike.com/2020/06/a-community-that-converts-cars-to-electric-part-2-damien-maguire-interview.html)
@@ -91,7 +91,7 @@ What I aim for is: **not much there that doesn’t need to be there**. I do not 
 ## So that gets us to the last few years, what has been happening?
 
 In 2016 I registered the domain for [Open Inverter](openinverter.org). The idea was to create a platform for this ecosystem. 
-Not much happened for two years, but then a guy called Demare Deokman from Canada suggested we make a forum. We also added a Wiki and a shop. Before that people had to email me to request the different parts.
+Not much happened for two years, but then a guy called Dima Dyhkman from Canada suggested we make a forum. We also added a Wiki and a shop. Before that people had to email me to request the different parts.
 
 Then I started the [patreon page](https://www.patreon.com/openinverter), so that people could support my “artisanal engineering” work. 
 I hope it might become self-sustaining soon. If that happens I can spend all my time on this improving on the hardware and software.
@@ -123,8 +123,10 @@ I think car conversions will eventually become  more mainstream than they  curre
 
 Every car is a new project. Standardising the conversions would make sense because it has certain advantages over buying a new electric car: the environmental impact is lower, parts already exist, also, you can customise certain aspects of the car to suit your needs better. 
 **There are some very good chassis out there, that just have the wrong engine**
-
-<img src="/img/2020-johannes/Touran--body-work-with-Arber.jpg" width="400" alter="Touran conversion body work with Arber">
+<figure class="figure">
+<img src="/img/2020-johannes/Touran--body-work-with-Arber.jpg" width="400" alter="Touran conversion body work with Arber Kramar">
+  <figcaption class="figure-caption">VW work with Arber Kramar.</figcaption>
+</figure>
 
 ## Speaking of debunking myths, is it expected that I would lose the back seats if I convert a car?
 
